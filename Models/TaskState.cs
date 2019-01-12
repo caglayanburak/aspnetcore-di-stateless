@@ -20,10 +20,10 @@ namespace WebApiStatelessSample
         public void Configure(bool isSingle, State initialState = default(State))
         {
             _stateMachine = new StateMachine<State, Trigger>(initialState);
-            _pickingConfiguration.Execute(_stateMachine, true);
-            _sortingConfiguration.Execute(_stateMachine, true);
-            _packingConfiguration.Execute(_stateMachine, true);
-            _loadingConfiguration.Execute(_stateMachine, true);
+            _pickingConfiguration.Execute(_stateMachine, isSingle);
+            _sortingConfiguration.Execute(_stateMachine, isSingle);
+            _packingConfiguration.Execute(_stateMachine, isSingle);
+            _loadingConfiguration.Execute(_stateMachine, isSingle);
         }
 
         State ITaskState.State { get => _stateMachine.State; }
