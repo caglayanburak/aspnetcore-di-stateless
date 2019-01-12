@@ -1,0 +1,14 @@
+/Users/burakcaglayan/Projects/WebApiStatelessSample/bin/Debug/netcoreapp2.2/WebApiStatelessSample.deps.json
+/Users/burakcaglayan/Projects/WebApiStatelessSample/bin/Debug/netcoreapp2.2/WebApiStatelessSample.runtimeconfig.json
+/Users/burakcaglayan/Projects/WebApiStatelessSample/bin/Debug/netcoreapp2.2/WebApiStatelessSample.runtimeconfig.dev.json
+/Users/burakcaglayan/Projects/WebApiStatelessSample/bin/Debug/netcoreapp2.2/WebApiStatelessSample.dll
+/Users/burakcaglayan/Projects/WebApiStatelessSample/bin/Debug/netcoreapp2.2/WebApiStatelessSample.pdb
+/Users/burakcaglayan/Projects/WebApiStatelessSample/obj/Debug/netcoreapp2.2/WebApiStatelessSample.csprojAssemblyReference.cache
+/Users/burakcaglayan/Projects/WebApiStatelessSample/obj/Debug/netcoreapp2.2/WebApiStatelessSample.csproj.CoreCompileInputs.cache
+/Users/burakcaglayan/Projects/WebApiStatelessSample/obj/Debug/netcoreapp2.2/WebApiStatelessSample.RazorAssemblyInfo.cache
+/Users/burakcaglayan/Projects/WebApiStatelessSample/obj/Debug/netcoreapp2.2/WebApiStatelessSample.RazorAssemblyInfo.cs
+/Users/burakcaglayan/Projects/WebApiStatelessSample/obj/Debug/netcoreapp2.2/WebApiStatelessSample.AssemblyInfoInputs.cache
+/Users/burakcaglayan/Projects/WebApiStatelessSample/obj/Debug/netcoreapp2.2/WebApiStatelessSample.AssemblyInfo.cs
+/Users/burakcaglayan/Projects/WebApiStatelessSample/obj/Debug/netcoreapp2.2/WebApiStatelessSample.RazorTargetAssemblyInfo.cache
+/Users/burakcaglayan/Projects/WebApiStatelessSample/obj/Debug/netcoreapp2.2/WebApiStatelessSample.dll
+/Users/burakcaglayan/Projects/WebApiStatelessSample/obj/Debug/netcoreapp2.2/WebApiStatelessSample.pdb
