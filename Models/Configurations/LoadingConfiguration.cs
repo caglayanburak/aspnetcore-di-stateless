@@ -3,7 +3,7 @@ using Stateless;
 
 namespace WebApiStatelessSample
 {
-    public class LoadingConfiguration : ConfigurationStrategy, ILoadingStateConfiguration
+    public class LoadingConfiguration : ConfigurationStrategy
     {
         public override void Execute(StateMachine<State, Trigger> stateMachine, bool isSingle = true)
         {

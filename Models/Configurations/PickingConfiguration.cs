@@ -3,7 +3,7 @@ using Stateless;
 
 namespace WebApiStatelessSample
 {
-   public class PickingConfiguration : ConfigurationStrategy, IPickingStateConfiguration
+   public class PickingConfiguration : ConfigurationStrategy
     {
         public bool IsSingle { get; }
         private StateMachine<State, Trigger> StateMachine { get; set; }

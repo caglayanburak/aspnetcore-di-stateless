@@ -3,7 +3,7 @@ using Stateless;
 
 namespace WebApiStatelessSample
 {
-    public class SortingConfiguration : ConfigurationStrategy, ISortingStateConfiguration
+    public class SortingConfiguration : ConfigurationStrategy
     {
         public override void Execute(StateMachine<State, Trigger> stateMachine, bool isSingle)
         {

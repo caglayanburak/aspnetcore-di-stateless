@@ -4,10 +4,10 @@ namespace WebApiStatelessSample
 {
     public class TaskState : ITaskState
     {
-        private IPickingStateConfiguration _pickingConfiguration;
-        private ISortingStateConfiguration _sortingConfiguration;
-        private IPackingStateConfiguration _packingConfiguration;
-        private ILoadingStateConfiguration _loadingConfiguration;
+        private PickingConfiguration _pickingConfiguration;
+        private SortingConfiguration _sortingConfiguration;
+        private PackingConfiguration _packingConfiguration;
+        private LoadingConfiguration _loadingConfiguration;
         public TaskState(PickingConfiguration pickingConfiguration, SortingConfiguration sortingConfiguration, PackingConfiguration packingConfiguration, LoadingConfiguration loadingConfiguration)
         {
             _pickingConfiguration = pickingConfiguration;

@@ -3,7 +3,7 @@ using Stateless;
 
 namespace WebApiStatelessSample
 {
-    public class PackingConfiguration : ConfigurationStrategy, IPackingStateConfiguration
+    public class PackingConfiguration : ConfigurationStrategy
     {
         public override void Execute(StateMachine<State, Trigger> stateMachine, bool isSingle = true)
         {
